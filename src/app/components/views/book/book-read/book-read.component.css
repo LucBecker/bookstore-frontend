@@ -1,0 +1,17 @@
+form {
+    width: 90%;
+    margin: auto;
+}
+
+.home {
+    margin: 1.5rem auto;
+    text-align: center;
+}
+
+button {
+    width: 100%;
+}
+
+.subtitleText{
+    text-align: justify;
+}

@@ -1,0 +1,23 @@
+mat-card {
+    width: 95%;
+    height: 95%;
+    margin: 1rem auto 0 auto;
+    text-align: center;
+}
+img {
+    width: 60%;
+    height: 80%;
+    margin: 1rem auto;
+}
+
+@media(max-width: 450px) {
+    .home {
+        width: 70%;
+    }
+}
+
+@media(max-width: 770px) {
+    .home {
+        width: 90%;
+    }
+}

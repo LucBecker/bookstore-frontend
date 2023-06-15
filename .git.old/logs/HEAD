@@ -1,0 +1,30 @@
+0000000000000000000000000000000000000000 fddab0512140e63d8d72547e5b01729a8d08a88b Lucas Becker <lucas.andrade@riachuelo.com.br> 1686596116 -0300	commit (initial): new project
+fddab0512140e63d8d72547e5b01729a8d08a88b aad52b336460473d32a470ee55b44384222ba4f1 Lucas Becker <lucas.andrade@riachuelo.com.br> 1686598023 -0300	commit: modify templateUrl
+aad52b336460473d32a470ee55b44384222ba4f1 5523be3c0f164a36a447529a387f604db6fa5c1c Lucas Becker <lucas.andrade@riachuelo.com.br> 1686598937 -0300	commit: adicionando angular material
+5523be3c0f164a36a447529a387f604db6fa5c1c d42e08284c0f1e4ede5553cb37f66aebd0311781 Lucas Becker <lucas.andrade@riachuelo.com.br> 1686620695 -0300	commit: implements header
+d42e08284c0f1e4ede5553cb37f66aebd0311781 273f5048b8efc2ebfc9dc793f45ae58befb7af4b Lucas Becker <lucas.andrade@riachuelo.com.br> 1686621017 -0300	commit: implements footer
+273f5048b8efc2ebfc9dc793f45ae58befb7af4b 3ddc273c44b4d3f38e3c1cfe2f31901fdd05b49a Lucas Becker <lucas.andrade@riachuelo.com.br> 1686621645 -0300	commit: implements nav
+3ddc273c44b4d3f38e3c1cfe2f31901fdd05b49a 32837b7eb498ea867d6596b816bac3813ef84c1b Lucas Becker <lucas.andrade@riachuelo.com.br> 1686622391 -0300	commit: implements home
+32837b7eb498ea867d6596b816bac3813ef84c1b dbc1a86efd725d09a61cc8d9832c336999c63b1c Lucas Becker <lucas.andrade@riachuelo.com.br> 1686679323 -0300	commit: add component category-read
+dbc1a86efd725d09a61cc8d9832c336999c63b1c 39d15bdc388adf53e0b68f7e10af99050e1ef704 Lucas Becker <lucas.andrade@riachuelo.com.br> 1686692705 -0300	commit: finish component category
+39d15bdc388adf53e0b68f7e10af99050e1ef704 5b2a3dd788bfbdcac67e37fc17aa191c326766d9 Lucas Becker <lucas.andrade@riachuelo.com.br> 1686703852 -0300	commit: add css and buttons
+5b2a3dd788bfbdcac67e37fc17aa191c326766d9 44c1bcb23c0e6507601b6e1510e1da310ec54ad3 Lucas Becker <lucas.andrade@riachuelo.com.br> 1686704357 -0300	commit: add component create
+44c1bcb23c0e6507601b6e1510e1da310ec54ad3 eb398b159089980be784623d094cef3575be70ff Lucas Becker <lucas.andrade@riachuelo.com.br> 1686705658 -0300	commit: add styles and buttons
+eb398b159089980be784623d094cef3575be70ff c8d9b190a97153f5fc307cb1de39fe0158a9ee17 Lucas Becker <lucas.andrade@riachuelo.com.br> 1686707591 -0300	commit: implements method create
+c8d9b190a97153f5fc307cb1de39fe0158a9ee17 565bd81b3c539876b92b32301881a193367a1ea0 Lucas Becker <lucas.andrade@riachuelo.com.br> 1686757643 -0300	commit: add navigate cancel
+565bd81b3c539876b92b32301881a193367a1ea0 1b10130ed44bbc4983c580cd2bb731f6766cf4b2 Lucas Becker <lucas.andrade@riachuelo.com.br> 1686767343 -0300	commit: component category delete
+1b10130ed44bbc4983c580cd2bb731f6766cf4b2 8cb868fc798d9c840d2989688a8ed8babf4650a9 Lucas Becker <lucas.andrade@riachuelo.com.br> 1686768393 -0300	commit: implements method delete
+8cb868fc798d9c840d2989688a8ed8babf4650a9 7e953e1e4348084e63586d695e7aff0840236fcf Lucas Becker <lucas.andrade@riachuelo.com.br> 1686771226 -0300	commit: implements method update
+7e953e1e4348084e63586d695e7aff0840236fcf 776965615a644f60baa914729f12d7410ba6b44c Lucas Becker <lucas.andrade@riachuelo.com.br> 1686771417 -0300	commit: add err message
+776965615a644f60baa914729f12d7410ba6b44c a91730d32e24574ad5c64b8bae4b1739de8f42c3 Lucas Becker <lucas.andrade@riachuelo.com.br> 1686776259 -0300	commit: component read-all
+a91730d32e24574ad5c64b8bae4b1739de8f42c3 728d4a06dc02dd1bb1ae59b87087b1354ea72259 Lucas Becker <lucas.andrade@riachuelo.com.br> 1686795500 -0300	commit: add read all book
+728d4a06dc02dd1bb1ae59b87087b1354ea72259 e91c46564667d2086302f6d600451e9f90bd105f Lucas Becker <lucas.andrade@riachuelo.com.br> 1686796205 -0300	commit: add component book create
+e91c46564667d2086302f6d600451e9f90bd105f 018d2bfd931157a6d38c9b63ce971b8383ce6d5a Lucas Becker <lucas.andrade@riachuelo.com.br> 1686797641 -0300	commit: add validation formsControl
+018d2bfd931157a6d38c9b63ce971b8383ce6d5a 0a2b5103c8d31c2eee0da30fb56e22fe71760463 Lucas Becker <lucas.andrade@riachuelo.com.br> 1686798710 -0300	commit: add message and method create
+0a2b5103c8d31c2eee0da30fb56e22fe71760463 08578e29130092947959c912bb30d74993ef7576 Lucas Becker <lucas.andrade@riachuelo.com.br> 1686798847 -0300	commit: add method cancel
+08578e29130092947959c912bb30d74993ef7576 08c68771e40e3a23888b34406f7d2d9f6bc9d156 Lucas Becker <lucas.andrade@riachuelo.com.br> 1686799541 -0300	commit: add component book update
+08c68771e40e3a23888b34406f7d2d9f6bc9d156 5e6eccfd83eb8c6bb8225f7320cdee0db596a6fd Lucas Becker <lucas.andrade@riachuelo.com.br> 1686800310 -0300	commit: implements method update
+5e6eccfd83eb8c6bb8225f7320cdee0db596a6fd 363689ec38e9ebd9879d2532a3c025c3b233b5b1 Lucas Becker <lucas.andrade@riachuelo.com.br> 1686801300 -0300	commit: component book delete
+363689ec38e9ebd9879d2532a3c025c3b233b5b1 dea9c4cc19d2523bd6f8c51d9600a49267cd85a7 Lucas Becker <lucas.andrade@riachuelo.com.br> 1686837488 -0300	commit: component book read
+dea9c4cc19d2523bd6f8c51d9600a49267cd85a7 0abbec1b52c540c03b93b30b6f87c96beac6f1fd Lucas Becker <lucas.andrade@riachuelo.com.br> 1686838918 -0300	commit: add img home and css
+0abbec1b52c540c03b93b30b6f87c96beac6f1fd f8131a8178e4288dc14da5cbd0fa4f7703b09743 Lucas Becker <lucas.andrade@riachuelo.com.br> 1686839435 -0300	commit: alter img home

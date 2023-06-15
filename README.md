@@ -16,6 +16,8 @@
 <img src="https://img.shields.io/badge/Git flow%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 </p>
 
+<img width="955" alt="home" src="https://github.com/LucBecker/bookstore-frontend/assets/108952468/bf176434-5a5b-4148-aad2-e6ffccdaefd9">
+
 #
 #### Esse é um sistema completo com Spring Boot 2.x para desenvolver uma API REST com um sistema Frontend com o framework Angular 16 para consumir nossa API. 
 Link no Github Pages: https://lucbecker.github.io/bookstore-frontend/

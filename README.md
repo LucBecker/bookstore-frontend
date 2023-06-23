@@ -23,7 +23,7 @@
 ![image](https://github.com/LucBecker/helpdesk-front/assets/108952468/818173cc-1917-4810-9a47-d84b575b5c0a)
 
 #
-#### O sistema está rodando na nuvem sendo o front na Vercel e o back na Heroku. O projeto tem como objetivo principal abordar os conceitos de aplicações SPAs, Autenticação e Autorização com Tokens JWT e muito mais. 
+#### O sistema está rodando na nuvem sendo o front na Vercel e o back na Railway. O projeto tem como objetivo principal abordar os conceitos de aplicações SPAs, Autenticação e Autorização com Tokens JWT e muito mais. 
 
 Usuário para teste: Acessando: https://helpdesk-front-becker.vercel.app/
 

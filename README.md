@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Git flow%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 </p>
 
-![image](https://github.com/LucBecker/helpdesk-front/assets/108952468/8016861f-4176-48c3-b29c-0581de0745ea)
+![image](https://github.com/LucBecker/helpdesk-front/assets/108952468/527605a7-969b-4dea-8260-e36bfa2a1b0e)
 
 ![image](https://github.com/LucBecker/helpdesk-front/assets/108952468/8792d277-255f-40be-afa5-ec1d858826f9)
 

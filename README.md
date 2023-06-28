@@ -20,48 +20,6 @@
 
 
 #
-#### O sistema está rodando na nuvem sendo o front na Vercel e o back na Railway. O projeto tem como objetivo principal abordar os conceitos de aplicações SPAs, Autenticação e Autorização com Tokens JWT e muito mais. 
+#### Esse é um sistema completo com Spring Boot 2.x para desenvolver uma API REST e um sistema Frontend com o framework Angular 16 para consumir nossa API.
 
-Usuário para teste: Acessando: https://helpdesk-front-becker.vercel.app/
-
-E-mail: lucas@gmail.com
-
-#Password: 123
-
-#Conceitos de Spring Boot 2.x.x
-
-#Spring Data JPA
-
-#Hibernate
-
-#Autenticação com Tokens JWT
-
-#Autorização com Tokens JWT
-
-#Conceitos de Angular 12
-
-#Conceitos básicos de Typescript, HTML5 e CSS3
-
-#Criar uma API RESTful
-
-#Consumir uma API REST usando a ferramenta Postman
-
-#Consumir uma API REST usando o front desenvolvido no curso
-
-#Utilização do banco de dados h2 em tempo de compilação
-
-#Tratamento de exceções de forma personalizada
-
-#Desenvolvimento em camadas usando o padrão MVC
-
-#Padrão DTO (Data Transfer Objects)
-
-#MySQL em projeto Spring Boot
-
-#Implementar perfis de Teste e Desenvolvimento
-
-#Validações com Validations
-
-#Protocolo HTTP no padrão REST
-
-#Realização de deploy de ambos os sistemas na nuvem
+#Link no Github Pages: https://lucbecker.github.io/bookstore-frontend/

@@ -16,11 +16,8 @@
 <img src="https://img.shields.io/badge/Git flow%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 </p>
 
-![image](https://github.com/LucBecker/helpdesk-front/assets/108952468/527605a7-969b-4dea-8260-e36bfa2a1b0e)
+![image](https://github.com/LucBecker/bookstore-frontend/assets/108952468/82fb26f8-4ffc-4b8b-9750-f245d4e94f67)
 
-![image](https://github.com/LucBecker/helpdesk-front/assets/108952468/8792d277-255f-40be-afa5-ec1d858826f9)
-
-![image](https://github.com/LucBecker/helpdesk-front/assets/108952468/818173cc-1917-4810-9a47-d84b575b5c0a)
 
 #
 #### O sistema está rodando na nuvem sendo o front na Vercel e o back na Railway. O projeto tem como objetivo principal abordar os conceitos de aplicações SPAs, Autenticação e Autorização com Tokens JWT e muito mais. 
